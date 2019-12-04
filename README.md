@@ -1,2 +1,0 @@
-# JSBrickGame
-Created with CodeSandbox
